@@ -14,18 +14,16 @@ docs:
     children:
       - title: "Quick-Start Guide"
         url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
       - title: "Installation"
         url: /docs/installation/
       - title: "Upgrading"
         url: /docs/upgrading/
 
-  - title: Customization
+  - title: Connectors
     children:
-      - title: "Configuration"
+      - title: "Local Drive or Folder"
         url: /docs/configuration/
-      - title: "Navigation"
+      - title: "Network Folder or Share"
         url: /docs/navigation/
       - title: "UI Text"
         url: /docs/ui-text/
@@ -34,7 +32,7 @@ docs:
       - title: "Layouts"
         url: /docs/layouts/
 
-  - title: Content
+  - title: Tasks
     children:
       - title: "Working with Posts"
         url: /docs/posts/
@@ -47,9 +45,16 @@ docs:
       - title: "Utility Classes"
         url: /docs/utility-classes/
 
-  - title: Extras
+  - title: Search
     children:
       - title: "Stylesheets"
         url: /docs/stylesheets/
       - title: "JavaScript"
+        url: /docs/javascript/
+
+  - title: Scenarios
+    children:
+      - title: "Backup Google Drive"
+        url: /docs/stylesheets/
+      - title: "Migrate data from connector to connector"
         url: /docs/javascript/
