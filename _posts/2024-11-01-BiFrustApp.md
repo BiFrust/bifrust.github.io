@@ -1,11 +1,11 @@
 ---
 title: "BiFrust App"
 date: 2024-11-01T15:34:30-04:00
-categories:
-  - blog
-tags:
-  - Jekyll
-  - update
+# categories:
+#   - blog
+# tags:
+#   - Jekyll
+#   - update
 toc: true
 ---
 
