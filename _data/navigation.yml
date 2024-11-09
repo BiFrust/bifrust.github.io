@@ -19,7 +19,7 @@ sidenav:
       - title: "Installation"
         url: /docs/02-installation/
       - title: "Upgrading"
-        url: /docs/upgrading/
+        url: /docs/03-upgrading/
 
   - title: Connectors
     children:

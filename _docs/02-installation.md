@@ -22,7 +22,7 @@ toc: true
 2. Download the app
 
 
-## Installation: Windows
+## Install: Windows
 
 As the BiFrust app is in private Beta, we have not integrated an EV certificate and as such you have to unblock the installer on Windows. Please look out for future updates that will include this so we are recognized as an authorized app publisher with Microsoft.
 
@@ -33,9 +33,9 @@ As the BiFrust app is in private Beta, we have not integrated an EV certificate 
 
 <!-- ![Unblock Installer]({{ "/assets/images/unblockInstallerWin.png" | relative_url }}) -->
 
-<img src="/assets/images/unblockInstallerWin.png" alt="Unblock Installer" width="200" heiggt="600"/>
+<img src="/assets/images/unblockInstallerWin.png" alt="Unblock Installer" width="200" heiggt="700"/>
 
-### Install
+### Installation
 
 1. Run the setup file
 2. Select the location to install BiFrust App
@@ -46,7 +46,7 @@ As the BiFrust app is in private Beta, we have not integrated an EV certificate 
 
 <!-- ![loginPromptApp]({{ "/assets/images/loginPromptApp.png" | relative_url }}) -->
 
-<img src="/assets/images/loginPromptApp.png" alt="loginPromptApp" width="200" heiggt="600"/>
+<img src="/assets/images/loginPromptApp.png" alt="loginPromptApp" width="200" heiggt="700"/>
 
 
 
@@ -55,5 +55,5 @@ As the BiFrust app is in private Beta, we have not integrated an EV certificate 
 After logging into the BiFrust app for the very first time, you will be presented with this screen:
   
   <img src="/assets/images/firstLaunch.png" alt="loginPromptApp" width="500" heiggt="800"/>
-  
-Click on the "Add connector button" and start transforming your data:
+
+Add storage device or an account as a connector and start transforming your data.
