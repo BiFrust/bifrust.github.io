@@ -41,7 +41,7 @@ main:
 
 Which will give you a responsive masthead similar to this:
 
-![priority plus masthead animation]({{ "/assets/images/mm-priority-plus-masthead.gif" | relative_url }})
+![priority plus masthead animation]({{ "/assets/images/bifrustScreenshot.png" | relative_url }})
 
 Optionally, you can add a `description` key per title in the `main` key. This `description` will show up like a tooltip, when the user hovers over the link on a desktop browser.
 
