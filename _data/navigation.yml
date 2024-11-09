@@ -12,7 +12,7 @@ main:
  
 
   
-docs:
+sidenav:
   - title: Getting Started
     children:
       - title: "Quick-Start Guide"
