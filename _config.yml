@@ -94,6 +94,19 @@ defaults:
       # comments: true
       # share: true
       # related: true
+  # _docs
+  - scope:
+      path: "docs"
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      sidebar:
+        nav: "sidenav"
+      # comments: true
+      # share: true
+      # related: true
   # _pages
   - scope:
       path: "_pages"
