@@ -33,7 +33,7 @@ As the BiFrust app is in private Beta, we have not integrated an EV certificate 
 
 <!-- ![Unblock Installer]({{ "/assets/images/unblockInstallerWin.png" | relative_url }}) -->
 
-<img src="/assets/images/unblockInstallerWin.png" alt="Unblock Installer" width="200" heiggt="400"/>
+<img src="/assets/images/unblockInstallerWin.png" alt="Unblock Installer" width="200" heiggt="500"/>
 
 ### Install
 
@@ -46,7 +46,7 @@ As the BiFrust app is in private Beta, we have not integrated an EV certificate 
 
 <!-- ![loginPromptApp]({{ "/assets/images/loginPromptApp.png" | relative_url }}) -->
 
-<img src="/assets/images/loginPromptApp.png" alt="loginPromptApp" width="200" heiggt="400"/>
+<img src="/assets/images/loginPromptApp.png" alt="loginPromptApp" width="200" heiggt="500"/>
 
 
 
@@ -54,5 +54,6 @@ As the BiFrust app is in private Beta, we have not integrated an EV certificate 
 
 After logging into the BiFrust app, you will be presented with this screen:
 
-- Click on the "Add connector button":
-  <img src="/assets/images/firstLaunch.png" alt="loginPromptApp" width="200" heiggt="500"/>
+Click on the "Add connector button" and start transforming your data:
+  
+  <img src="/assets/images/firstLaunch.png" alt="loginPromptApp" width="500" heiggt="600"/>
