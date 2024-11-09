@@ -47,3 +47,12 @@ As the BiFrust app is in private Beta, we have not integrated an EV certificate 
 <!-- ![loginPromptApp]({{ "/assets/images/loginPromptApp.png" | relative_url }}) -->
 
 <img src="/assets/images/loginPromptApp.png" alt="loginPromptApp" width="200" heiggt="400"/>
+
+
+
+## Launching BiFurst for the first time
+
+After logging into the BiFrust app, you will be presented with this screen:
+
+- Click on the "Add connector button":
+  <img src="/assets/images/firstLaunch.png" alt="loginPromptApp" width="200" heiggt="500"/>
