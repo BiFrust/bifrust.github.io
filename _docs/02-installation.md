@@ -12,69 +12,36 @@ toc: true
 #         nav: "sidenav"
 ---
 
-Customize site navigational links through a Jekyll data file.
 
-## Masthead
 
-The masthead links use a "priority plus" design pattern. Meaning, show as many navigation items that will fit horizontally with a toggle to reveal the rest.
-
-To define these links add titles and URLs under the `main` key in `_data/navigation.yml`:
-
-```yaml
-main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
-  - title: "Posts"
-    url: /year-archive/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "Pages"
-    url: /page-archive/
-  - title: "Collections"
-    url: /collection-archive/
-  - title: "External Link"
-    url: https://google.com
-    target: _blank
-```
-
-Which will give you a responsive masthead similar to this:
-
-![priority plus masthead animation]({{ "/assets/images/bifrustScreenshot.png" | relative_url }})
-
-Optionally, you can add a `description` key per title in the `main` key. This `description` will show up like a tooltip, when the user hovers over the link on a desktop browser.
-
-**ProTip:** Put the most important links first so they're always visible and not hidden behind the **menu toggle**.
+**Please Note:** BiFrust is currently in beta and isnt deployed with EV certificate which codesigns BiFrust app from an identified publisher. At this moment, you will have to unblock the installer file to be able to install the BiFrust application.
 {: .notice--info}
 
-## Breadcrumbs (beta)
 
-Enable breadcrumb links to help visitors better navigate deep sites. Because of the fragile method of implementing them they don't always produce accurate links reliably. For best results:
 
-1. Use a category based permalink structure e.g. `permalink: /:categories/:title/`
-2. Manually create pages for each category or use a plugin like [jekyll-archives](https://github.com/jekyll/jekyll-archives) to auto-generate them. If these pages don't exist breadcrumb links to them will be broken.
+## Download the app
 
-![breadcrumb navigation example]({{ "/assets/images/mm-breadcrumbs-example.jpg" | relative_url }})
+1. Login to [BiFrust Website](https://bifrust.com/)
+2. Download the app
 
-```yaml
-breadcrumbs: true  # disabled by default
-```
 
-Breadcrumb start link text and separator character can both be changed in `_data/ui-text.yml`.
+## Installing on Windows
 
-```yaml
-breadcrumb_home_label : "Home"
-breadcrumb_separator  : "/"
-```
+Before you can install the app, you will have to unblock the installer in windows. This is because during private Beta, we have not integrated an EV certificate. Our future updates will include this so we are recognized as an authorized app publisher with Microsoft.
 
-For breadcrumbs that resemble something like `Start > Blog > My Awesome Post` you'd apply these settings:
+### Unblock the BiFrust installer
 
-```yaml
-breadcrumb_home_label : "Start"
-breadcrumb_separator  : ">"
-```
+1. Right click the installer > Properties:
+2. Click on "Unblock"
 
-## Custom sidebar navigation menu
+![Unblock Installer]({{ "/assets/images/unblockInstaller.png" | relative_url }})
 
-See the [**sidebars** documentation]({{ "/docs/layouts/#custom-sidebar-navigation-menu" | relative_url }}) for information on setting up a custom navigation menu.
+
+### Install
+
+1. Run the setup file
+2. Select the location to install BiFrust App
+3. Run the app
+
+
+![loginPromptApp]({{ "/assets/images/loginPromptApp.png" | relative_url }})

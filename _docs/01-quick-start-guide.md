@@ -12,10 +12,14 @@ toc: true
 #         nav: "sidenav"
 ---
 
-**Please Note:** BiFrust is currently in beta. As such please do not use Bifrust app with production or live data.
-{: .notice--info}
-
-Login to BiFrust to download the app. 
+**Please Note:** BiFrust is currently in private beta. If you are interested in getting access to beta, please follow us on twitter/X: [@BiFrustApp](https://x.com/BiFrustApp) and DM us your email.
+{: .notice--danger}
 
 
-![Login Image]({{ "/assets/images/loginPrompt.png" | relative_url }})
+ 
+Login to [BiFrust Website](https://bifrust.com/) to download the BiFrust app. 
+
+Once logged in, you will have access to downloading the windows version of the app. 
+
+
+
