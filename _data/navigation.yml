@@ -15,9 +15,9 @@ sidenav:
   - title: Getting Started
     children:
       - title: "Quick-Start Guide"
-        url: /_docs/01-quick-start-guide/
+        url: /docs/01-quick-start-guide/
       - title: "Installation"
-        url: /_docs/02-installation/
+        url: /docs/02-installation/
       - title: "Upgrading"
         url: /docs/upgrading/
 
