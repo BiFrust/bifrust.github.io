@@ -1,15 +1,15 @@
 ---
-title: "Quick-Start Guide"
+title: "Installing BiFrust"
 date: 2024-11-01T15:34:30-04:00
-layout: single
+# layout: single
 # categories:
 #   - blog
 # tags:
 #   - Jekyll
 #   - update
 toc: true
-sidebar:
-        nav: "sidenav"
+# sidebar:
+#         nav: "sidenav"
 ---
 
 Customize site navigational links through a Jekyll data file.
