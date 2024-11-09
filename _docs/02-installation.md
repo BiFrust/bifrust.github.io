@@ -50,10 +50,10 @@ As the BiFrust app is in private Beta, we have not integrated an EV certificate 
 
 
 
-## Launching BiFurst for the first time
+## First Launch
 
-After logging into the BiFrust app, you will be presented with this screen:
-
-Click on the "Add connector button" and start transforming your data:
+After logging into the BiFrust app for the very first time, you will be presented with this screen:
   
   <img src="/assets/images/firstLaunch.png" alt="loginPromptApp" width="500" heiggt="800"/>
+  
+Click on the "Add connector button" and start transforming your data:
