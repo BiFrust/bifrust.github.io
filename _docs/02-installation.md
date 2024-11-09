@@ -19,23 +19,24 @@ toc: true
 
 
 
-## Download the app
+## Download App
 
 1. Login to [www.bifrust.com](https://bifrust.com/)
 2. Download the app\
+\
+\
 
-
-
-## Installing on Windows
+## Installation: Windows
 
 As the Bifrust app is in private Beta, we have not integrated an EV certificate and as such you have to unblock the installer on Windows. Please look out for future updates that will include this so we are recognized as an authorized app publisher with Microsoft.
+\
 
 ### Unblock installer
 
 1. Right click the installer > Properties:
 2. Click on "Unblock"
 
-![Unblock Installer]({{ "/assets/images/unblockInstaller.png" | relative_url }})
+![Unblock Installer]({{ "/assets/images/unblockInstallerWin.png" | relative_url }})
 
 
 ### Install
