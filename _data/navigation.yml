@@ -8,7 +8,7 @@ main:
   # - title: "About"
   #   url: /about/
   - title: "Home"
-    url: /posts/
+    url: https:/bifrust.com/
  
 
   

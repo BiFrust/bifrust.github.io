@@ -1,0 +1,12 @@
+---
+title: "Quick-Start Guide"
+date: 2024-11-01T15:34:30-04:00
+# categories:
+#   - blog
+# tags:
+#   - Jekyll
+#   - update
+toc: true
+---
+
+Login to BiFrust to download the app. 
