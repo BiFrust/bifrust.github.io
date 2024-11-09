@@ -12,18 +12,14 @@ toc: true
 #         nav: "sidenav"
 ---
 
-
-
 **Please Note:** BiFrust is currently in beta and isnt deployed with EV certificate which codesigns BiFrust app from an identified publisher. At this moment, you will have to unblock the installer file to be able to install the BiFrust application.
 {: .notice--info}
-
 
 
 ## Download App
 
 1. Login to [www.bifrust.com](https://bifrust.com/)
 2. Download the app\
-
 
 
 ## Installation: Windows
@@ -37,14 +33,17 @@ As the BiFrust app is in private Beta, we have not integrated an EV certificate 
 
 <!-- ![Unblock Installer]({{ "/assets/images/unblockInstallerWin.png" | relative_url }}) -->
 
-<img src="/assets/images/unblockInstallerWin.png" alt="drawing" width="200" heiggt="200"/>
+<img src="/assets/images/unblockInstallerWin.png" alt="Unblock Installer" width="200" heiggt="400"/>
 
 ### Install
 
 1. Run the setup file
 2. Select the location to install BiFrust App
-3. Run the app
-4. Login and start connecting your storage devices and accounts. 
+3. Finish install
+4. Run the app
+5. Login and start connecting your storage devices and accounts. 
 
 
-![loginPromptApp]({{ "/assets/images/loginPromptApp.png" | relative_url }})
+<!-- ![loginPromptApp]({{ "/assets/images/loginPromptApp.png" | relative_url }}) -->
+
+<img src="/assets/images/loginPromptApp.png" alt="loginPromptApp" width="200" heiggt="400"/>
