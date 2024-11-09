@@ -19,12 +19,12 @@ toc: true
 ## Download App
 
 1. Login to [www.bifrust.com](https://bifrust.com/)
-2. Download the app\
+2. Download the app
 
 
 ## Installation: Windows
 
-As the BiFrust app is in private Beta, we have not integrated an EV certificate and as such you have to unblock the installer on Windows. Please look out for future updates that will include this so we are recognized as an authorized app publisher with Microsoft.\
+As the BiFrust app is in private Beta, we have not integrated an EV certificate and as such you have to unblock the installer on Windows. Please look out for future updates that will include this so we are recognized as an authorized app publisher with Microsoft.
 
 ### Unblock installer
 

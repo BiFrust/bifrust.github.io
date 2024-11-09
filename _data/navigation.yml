@@ -29,38 +29,40 @@ sidenav:
         url: /docs/configuration/
       - title: "Network Folder or Share"
         url: /docs/navigation/
-      - title: "Add personal Google Drive account"
+      - title: "Add personal Google Drive"
         url: /docs/ui-text/
-      - title: "Add personal OneDrive, Live.com, Outlook.com account"
+      - title: "Add personal OneDrive, Live, Outlook account"
         url: /docs/authors/
       - title: "Add Enterprise Google Drive"
         url: /docs/layouts/
       - title: "Add OneDrive for Business/Enterprise"
         url: /docs/layouts/
+      - title: "Add Box Enterprise"
+        url: /docs/layouts/
 
   - title: Tasks
     children:
-      - title: "Working with Posts"
+      - title: "Add Report Task"
         url: /docs/posts/
-      - title: "Working with Pages"
+      - title: "Add Copy Task"
         url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
 
   - title: Search
     children:
-      - title: "Stylesheets"
+      - title: "Searching for specific files"
         url: /docs/stylesheets/
-      - title: "JavaScript"
+      - title: "Create search tags"
         url: /docs/javascript/
 
   - title: Scenarios
     children:
-      - title: "Backup Google Drive"
+      - title: "Backup Google Drive accounts"
         url: /docs/stylesheets/
-      - title: "Migrate data from connector to connector"
+      - title: "Backup OneDrive accounts"
+        url: /docs/stylesheets/
+      - title: "Backup Box accounts"
+        url: /docs/stylesheets/
+      - title: "Copy data from one storage account to another"
+        url: /docs/javascript/
+      - title: "Copy specific files and folders to secondary location"
         url: /docs/javascript/
