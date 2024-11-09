@@ -64,6 +64,12 @@ plugins:
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
 
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+
 
 footer:
   links:
@@ -98,7 +104,7 @@ defaults:
       # comments: true
       # share: true
       # related: true
-  # docs
+  # _docs
   - scope:
       path: ""
       type: docs
