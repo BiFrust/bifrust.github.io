@@ -13,3 +13,6 @@ toc: true
 ---
 
 Login to BiFrust to download the app. 
+
+
+![Login Image]({{ "/assets/images/bifrustScreenshot.png" | relative_url }})
