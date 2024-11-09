@@ -23,7 +23,7 @@ toc: true
 
 1. Login to [www.bifrust.com](https://bifrust.com/)
 2. Download the app\
-\
+
 
 
 ## Installation: Windows
