@@ -1,6 +1,7 @@
 ---
 title: "Quick-Start Guide"
 date: 2024-11-01T15:34:30-04:00
+layout: single
 # categories:
 #   - blog
 # tags:
