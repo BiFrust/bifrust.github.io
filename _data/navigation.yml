@@ -29,9 +29,9 @@ sidenav:
         url: /docs/configuration/
       - title: "Network Folder or Share"
         url: /docs/navigation/
-      - title: "Add personal Google Drive"
+      - title: "Google Drive personal"
         url: /docs/ui-text/
-      - title: "Add personal OneDrive, Live, Outlook account"
+      - title: "OneDrive, Live, Outlook personal"
         url: /docs/authors/
       - title: "Add Enterprise Google Drive"
         url: /docs/layouts/
@@ -42,9 +42,9 @@ sidenav:
 
   - title: Tasks
     children:
-      - title: "Add Report Task"
+      - title: "Report Task"
         url: /docs/posts/
-      - title: "Add Copy Task"
+      - title: "Copy Task"
         url: /docs/pages/
 
   - title: Search
