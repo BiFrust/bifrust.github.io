@@ -21,15 +21,16 @@ toc: true
 
 ## Download the app
 
-1. Login to [BiFrust Website](https://bifrust.com/)
-2. Download the app
+1. Login to [www.bifrust.com](https://bifrust.com/)
+2. Download the app\
+
 
 
 ## Installing on Windows
 
-Before you can install the app, you will have to unblock the installer in windows. This is because during private Beta, we have not integrated an EV certificate. Our future updates will include this so we are recognized as an authorized app publisher with Microsoft.
+As the Bifrust app is in private Beta, we have not integrated an EV certificate and as such you have to unblock the installer on Windows. Please look out for future updates that will include this so we are recognized as an authorized app publisher with Microsoft.
 
-### Unblock the BiFrust installer
+### Unblock installer
 
 1. Right click the installer > Properties:
 2. Click on "Unblock"
@@ -42,6 +43,7 @@ Before you can install the app, you will have to unblock the installer in window
 1. Run the setup file
 2. Select the location to install BiFrust App
 3. Run the app
+4. Login and start connecting your storage devices and accounts. 
 
 
 ![loginPromptApp]({{ "/assets/images/loginPromptApp.png" | relative_url }})

@@ -29,11 +29,13 @@ sidenav:
         url: /docs/configuration/
       - title: "Network Folder or Share"
         url: /docs/navigation/
-      - title: "UI Text"
+      - title: "Add personal Google Drive account"
         url: /docs/ui-text/
-      - title: "Authors"
+      - title: "Add personal OneDrive, Live.com, Outlook.com account"
         url: /docs/authors/
-      - title: "Layouts"
+      - title: "Add Enterprise Google Drive"
+        url: /docs/layouts/
+      - title: "Add OneDrive for Business/Enterprise"
         url: /docs/layouts/
 
   - title: Tasks
