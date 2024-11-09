@@ -12,7 +12,10 @@ toc: true
 #         nav: "sidenav"
 ---
 
+**Please Note:** BiFrust is currently in beta. As such please do not use Bifrust app with production or live data.
+{: .notice--info}
+
 Login to BiFrust to download the app. 
 
 
-![Login Image]({{ "/assets/images/bifrustScreenshot.png" | relative_url }})
+![Login Image]({{ "/assets/images/loginPrompt.png" | relative_url }})
