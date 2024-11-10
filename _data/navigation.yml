@@ -24,7 +24,7 @@ sidenav:
   - title: Connectors
     children:
       - title: "Adding a connector"
-        url: /docs/configuration/
+        url: /docs/04-adding-connector/
       - title: "Local Drive or Folder"
         url: /docs/configuration/
       - title: "Network Folder or Share"
