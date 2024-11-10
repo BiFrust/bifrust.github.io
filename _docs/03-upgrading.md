@@ -1,5 +1,5 @@
 ---
-title: "Installing BiFrust"
+title: "Upgrading BiFrust"
 date: 2024-11-01T15:34:30-04:00
 # layout: single
 # categories:
