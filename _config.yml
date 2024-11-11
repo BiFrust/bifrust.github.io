@@ -18,7 +18,7 @@ title_separator: "-"
 subtitle: Data App 
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  BiFrust is a data application that allows you to connect to multiple cloud storage accounts and perform tasks such as copying files, backing up data, and more.
+  BiFrust application allows you to connect to multiple cloud storage accounts and local storage devices to perform tasks such as copying files, backing up data, and more.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
