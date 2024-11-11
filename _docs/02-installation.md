@@ -12,7 +12,7 @@ toc: true
 #         nav: "sidenav"
 ---
 
-**Please Note:** BiFrust is currently in beta and isnt deployed with EV certificate which codesigns BiFrust app from an identified publisher. At this moment, you will have to unblock the installer file to be able to install the BiFrust application.
+**Please Note:** BiFrust is currently in beta and isnt deployed with EV certificate which codesigns BiFrust app as an identified publisher. At this moment, you will have to unblock the installer file to be able to install the BiFrust application.
 {: .notice--info}
 
 

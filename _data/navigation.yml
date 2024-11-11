@@ -49,7 +49,7 @@ sidenav:
         url: /docs/12-add-report-task/
       - title: "Copy Task"
         url: /docs/13-add-copy-task/
-      - title: "Task Schedule"
+      - title: "Task Options"
         url: /docs/14-setup-reoccuring-task/
 
   - title: Search
