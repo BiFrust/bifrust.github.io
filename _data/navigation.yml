@@ -21,23 +21,26 @@ sidenav:
       - title: "Upgrading"
         url: /docs/03-upgrading/
 
-  - title: Connectors
+  - title: Connectors - Personal
     children:
-      - title: "Adding a connector"
+      - title: "Add a connector"
         url: /docs/04-adding-connector/
-      - title: "Local Drive or Folder"
+      - title: "Drive/Folder"
         url: /docs/configuration/
-      - title: "Network Folder or Share"
+      - title: "Network Folder/Share"
         url: /docs/navigation/
-      - title: "Google Drive personal"
+      - title: "Google Drive"
         url: /docs/ui-text/
-      - title: "OneDrive, Live, Outlook personal"
+      - title: "OneDrive, Live, Outlook"
         url: /docs/authors/
-      - title: "Add Enterprise Google Drive"
+      
+  - title: Connectors - Enterprise
+    children:
+      - title: "Google Drive/Gsuite"
         url: /docs/layouts/
-      - title: "Add OneDrive for Business/Enterprise"
+      - title: "OneDrive/Microsoft 365"
         url: /docs/layouts/
-      - title: "Add Box Enterprise"
+      - title: "Box"
         url: /docs/layouts/
 
   - title: Tasks
@@ -45,6 +48,8 @@ sidenav:
       - title: "Report Task"
         url: /docs/posts/
       - title: "Copy Task"
+        url: /docs/pages/
+      - title: "Task Schedule"
         url: /docs/pages/
 
   - title: Search
