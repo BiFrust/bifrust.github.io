@@ -12,6 +12,8 @@ toc: true
 #         nav: "sidenav"
 ---
 
+Generally on the first launch, the app will start at the Add Connector screen. Incase it does not click on Connector icon on the left side navigation.
+
 Click on **+** button to add a new connector
 
-<img src="/assets/images/connectorScreen.png" alt="Unblock Installer" width="650" height="800"/>
+<img src="/assets/images/addConnector.png" alt="Unblock Installer" width="650" height="800"/>
