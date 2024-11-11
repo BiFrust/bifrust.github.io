@@ -12,8 +12,12 @@ toc: true
 #         nav: "sidenav"
 ---
 
-Generally on the first launch, the app will start at the Add Connector screen. Incase it does not click on Connector icon on the left side navigation.
+On the first app launch, the app will start at the Add Connector screen automatically. Alternatively you can add connectors by accessing the Connector icon on the left side navigation.
 
 Click on **+** button to add a new connector
 
 <img src="/assets/images/addConnector.png" alt="Unblock Installer" width="650" height="800"/>
+
+At the current time we are supporting the most popular cloud and local connection options but we are working hard to bring more connectors to the platform.
+
+Add the connector of your choice and start get insights from your data and have complete control over it.

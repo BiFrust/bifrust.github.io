@@ -26,31 +26,31 @@ sidenav:
       - title: "Add a connector"
         url: /docs/04-adding-connector/
       - title: "Drive/Folder"
-        url: /docs/configuration/
+        url: /docs/05-connect-drive-folder/
       - title: "Network Folder/Share"
-        url: /docs/navigation/
+        url: /docs/06-connect-network-folder-share/
       - title: "Google Drive"
-        url: /docs/ui-text/
+        url: /docs/07-connect-google-drive-gmail/
       - title: "OneDrive, Live, Outlook"
-        url: /docs/authors/
+        url: /docs/08-connect-onedrive-live-outlook/
       
   - title: Connectors - Enterprise
     children:
       - title: "Google Drive/Gsuite"
-        url: /docs/layouts/
+        url: /docs/09-connect-google-drive-enterprise/
       - title: "OneDrive/Microsoft 365"
-        url: /docs/layouts/
+        url: /docs/10-connect-onedrive-m365-enterprise/
       - title: "Box"
-        url: /docs/layouts/
+        url: /docs/11-connect-box-enterprise/
 
   - title: Tasks
     children:
       - title: "Report Task"
-        url: /docs/posts/
+        url: /docs/12-add-report-task/
       - title: "Copy Task"
-        url: /docs/pages/
+        url: /docs/13-add-copy-task/
       - title: "Task Schedule"
-        url: /docs/pages/
+        url: /docs/14-setup-reoccuring-task/
 
   - title: Search
     children:
