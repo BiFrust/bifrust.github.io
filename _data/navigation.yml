@@ -25,22 +25,22 @@ sidenav:
     children:
       - title: "Add a connector"
         url: /docs/04-adding-connector/
-      - title: "Drive/Folder"
+      - title: "Connect a Drive or Folder"
         url: /docs/05-connect-drive-folder/
-      - title: "Network Folder/Share"
+      - title: "Connect Network Folder/Share"
         url: /docs/06-connect-network-folder-share/
-      - title: "Google Drive"
+      - title: "Connect Google Drive"
         url: /docs/07-connect-google-drive-gmail/
-      - title: "OneDrive, Live, Outlook"
+      - title: "Connect OneDrive, Live, Outlook"
         url: /docs/08-connect-onedrive-live-outlook/
       
   - title: Connectors - Enterprise
     children:
-      - title: "Google Drive/Gsuite"
+      - title: "Connect Google Drive/Gsuite"
         url: /docs/09-connect-google-drive-enterprise/
-      - title: "OneDrive/Microsoft 365"
+      - title: "Connect OneDrive/Microsoft 365"
         url: /docs/10-connect-onedrive-m365-enterprise/
-      - title: "Box"
+      - title: "Connect Box Enterprise"
         url: /docs/11-connect-box-enterprise/
 
   - title: Tasks

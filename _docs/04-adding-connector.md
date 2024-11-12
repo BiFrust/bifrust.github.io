@@ -12,6 +12,8 @@ toc: true
 #         nav: "sidenav"
 ---
 
+## Adding storage connectors
+
 On the first app launch, the app will start at the Add Connector screen automatically. 
 
 <img src="/assets/images/addConnector.png" alt="Unblock Installer" width="650" height="800"/>
@@ -26,3 +28,9 @@ Click on **+** button to add a new connector
 At the current time we are supporting the most popular cloud and local connection options but we are working hard to bring more connectors to the platform.
 
 Add the connector of your choice and start get insights from your data and have complete control over it.
+
+
+### Connector Details
+
+You can access a connector's details by clicking on the **⋮** on the connector you want to access more options for.
+
