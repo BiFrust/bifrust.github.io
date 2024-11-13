@@ -31,11 +31,10 @@ Google oAuth login window will popup:
 
 Enter your account credentials and verify with 2-step verification if you have that setup on google.
 
-Click on **Allow**
+Click on **Allow** & then Click **Next**
 <img src="/assets/images/connectorGoogle-03.png" alt="Unblock Installer" width="650" height="800"/>
 
 
-Click **Next**
-
+Your Google Drive credentials will be verified. Once verified, click on **Add** to add the connector
 <img src="/assets/images/connectorGoogle-04.png" alt="Unblock Installer" width="650" height="800"/>
-Your Google Drive connection will configured once validated. Click on **Add**
+
