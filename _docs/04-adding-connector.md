@@ -22,7 +22,7 @@ On the first app launch, the app will start at the Add Connector screen automati
 Alternatively you can add connectors by accessing the Connector icon on the left side navigation.
 
 Click on **+** button to add a new connector
-<img src="/assets/images/connectorScreen.png" alt="Unblock Installer" width="650" height="800"/>
+<img src="/assets/images/connectorScreen2.png" alt="Unblock Installer" width="650" height="800"/>
 
 
 At the current time we are supporting the most popular cloud and local connection options but we are working hard to bring more connectors to the platform.
@@ -34,3 +34,5 @@ Add the connector of your choice and start get insights from your data and have 
 
 You can access a connector's details by clicking on the **⋮** on the connector you want to access more options for.
 
+
+<img src="/assets/images/connectors.png" alt="Unblock Installer" width="750" height="400"/>
