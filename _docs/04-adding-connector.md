@@ -30,9 +30,19 @@ At the current time we are supporting the most popular cloud and local connectio
 Add the connector of your choice and start get insights from your data and have complete control over it.
 
 
-### Connector Details
+### Connector Options
 
 You can access a connector's details by clicking on the **⋮** on the connector you want to access more options for.
 
+<img src="/assets/images/connectors.png" alt="Unblock Installer" width="750" height="450"/>
 
-<img src="/assets/images/connectors.png" alt="Unblock Installer" width="750" height="400"/>
+**Options:**
+1. Scan: rescan a connector to update the app database with updated inventory of files and folders.
+2. Details: provides details on the provisioned connector and rename it.
+3. Delete: This will delete the connector and all connected jobs. 
+
+
+#### Details
+
+
+<img src="/assets/images/connectorDetails.png" alt="Unblock Installer" width="750" height="400"/>
