@@ -36,10 +36,10 @@ You can access a connector's details by clicking on the **⋮** on the connector
 
 <img src="/assets/images/connectors.png" alt="Unblock Installer" width="750" height="450"/>
 
-**Options:**
-1. Scan: rescan a connector to update the app database with updated inventory of files and folders.
-2. Details: provides details on the provisioned connector and rename it.
-3. Delete: This will delete the connector and all connected jobs. 
+1. **Scan:** rescan a connector to update the app database with updated inventory of files and folders.
+2. **Details:** provides details on the provisioned connector and rename it.
+3. **Reconnect:** reconnect if the connector is in disconnected state. This may occur if the underlying credentials have changed or underlying directories have been deleted.
+4. **Delete:** This will delete the connector and all connected tasks. 
 
 
 #### Connector Details
