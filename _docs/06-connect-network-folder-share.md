@@ -12,10 +12,12 @@ toc: true
 #         nav: "sidenav"
 ---
 
-## Configure a Network connector
-### Add a Network folder or a share
+## Configure a Network connector 
 
 Click on **+** button to add a new connector. 
+
+<img src="/assets/images/connectorSelect.png" alt="Unblock Installer" width="650" height="800"/>
+
 
 Select **Network** and click **Next**.
 
