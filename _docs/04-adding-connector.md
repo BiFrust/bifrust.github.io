@@ -12,7 +12,7 @@ toc: true
 #         nav: "sidenav"
 ---
 
-## Adding storage connectors
+## Connecting to a storage account or device
 
 On the first app launch, the app will start at the Add Connector screen automatically. 
 
@@ -42,7 +42,9 @@ You can access a connector's details by clicking on the **⋮** on the connector
 3. Delete: This will delete the connector and all connected jobs. 
 
 
-#### Details
+#### Connector Details
 
-
+By default a new connector will use the account name or company name as the name. The details screen allows you to give your connector a custom name of your liking.
 <img src="/assets/images/connectorDetails.png" alt="Unblock Installer" width="750" height="400"/>
+
+The details screen also shows stats for the connector. Some stats presented will depend on the type of connector. 
