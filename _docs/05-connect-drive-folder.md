@@ -19,17 +19,24 @@ Click on **+** button to add a new connector.
 
 <img src="/assets/images/connectorSelectLocal.png" alt="Unblock Installer" width="650" height="800"/>
 
-Select Local and hit next.
+Select **Local** and click **Next**.
 
 
 Give your local connector a name and click on **+** to select a directory. 
 <img src="/assets/images/connectorSelectLocalOptions.png" alt="Unblock Installer" width="650" height="800"/>
 
-Browse to a drive. In our example, we select C:\ drive and click Select Folder:
+
+Browse to a drive. In our example, we select C:\ drive and click **Select Folder**
 <img src="/assets/images/connectorSelectLocalWinDialog.png" alt="Unblock Installer" width="650" height="800"/>
 
-Click Next
+Click **Next**
 
 
-You will see the configured connector scanning the storage account or device:
+You will see the configured connector added and scanning the storage account or device:
+
+
 <img src="/assets/images/connectorCardLocal.png" alt="Unblock Installer" width="750" height="300"/>
+
+### Add a folder 
+
+Click on **+** button to add a new connector. 

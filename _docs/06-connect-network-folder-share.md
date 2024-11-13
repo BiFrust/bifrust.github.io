@@ -1,5 +1,5 @@
 ---
-title: "Adding your first storage connector"
+title: "Connecting to a network folder or share"
 date: 2024-11-01T15:34:30-04:00
 # layout: single
 # categories:
@@ -12,4 +12,21 @@ toc: true
 #         nav: "sidenav"
 ---
 
-Coming soon
+## Configure a Network connector
+### Add a Network folder or a share
+
+Click on **+** button to add a new connector. 
+
+Select **Network** and click **Next**.
+
+
+Give your Network connector a name and click on **+** to select a directory. 
+<img src="/assets/images/connectorSelectNetworkOptions.png" alt="Unblock Installer" width="650" height="800"/>
+
+
+Browse to network share or a folder. Click **Select Folder**
+
+Click **Next**
+
+
+You will see the configured connector has been added and scanning the network device
