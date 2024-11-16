@@ -12,24 +12,21 @@ toc: true
 #         nav: "sidenav"
 ---
 
-## Add Gmail/Google Drive as a connector
+## Add Google Drive (Gmail) as a connector
 
 Click on **+** button to add a new connector. 
 
+Select **Google** and click **Next**.
 <img src="/assets/images/connectorSelect.png" alt="Unblock Installer" width="650" height="800"/>
 
-
-Select **Google** and click **Next**.
-
+Select **Personal** and click **Next**. 
 <img src="/assets/images/connectorGoogle-00.png" alt="Unblock Installer" width="650" height="800"/>
 
 
-Select **Personal** and click **Next**. 
-
 Google oAuth login window will popup:
 <img src="/assets/images/connectorGoogle-01.png" alt="Unblock Installer" width="650" height="800"/>
-
 Enter your account credentials and verify with 2-step verification if you have that setup on google.
+
 
 Click on **Allow** & then Click **Next**
 <img src="/assets/images/connectorGoogle-03.png" alt="Unblock Installer" width="650" height="800"/>
