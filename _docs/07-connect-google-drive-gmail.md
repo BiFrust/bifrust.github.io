@@ -1,5 +1,5 @@
 ---
-title: "Connect to Google Drive (Gmail)"
+title: "Connect to Google Drive | Gmail"
 date: 2024-11-01T15:34:30-04:00
 # layout: single
 # categories:
