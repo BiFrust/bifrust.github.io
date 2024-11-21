@@ -59,6 +59,14 @@ sidenav:
       - title: "Create search tags"
         url: /docs/javascript/
 
+  - title: Options
+    children:
+      - title: "Account"
+        url: /docs/stylesheets/
+      - title: "Encryption and Keys"
+        url: /docs/stylesheets/
+     
+
   - title: Scenarios
     children:
       - title: "Backup Google Drive accounts"

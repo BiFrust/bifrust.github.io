@@ -25,6 +25,7 @@ Select **Personal** and click **Next**.
 
 Microsoft oAuth login window will popup, enter your account credentials:
 <img src="/assets/images/connectorOneDrive-01.png" alt="Unblock Installer" width="650" height="800"/>
+
 Verify with 2-step verification if you have that setup for your account.
 
 
