@@ -27,18 +27,18 @@ sidenav:
         url: /docs/04-adding-connector/
       - title: "Connect a Drive or Folder"
         url: /docs/05-connect-drive-folder/
-      - title: "Connect Network Folder/Share"
+      - title: "Connect Network Folder | Share"
         url: /docs/06-connect-network-folder-share/
       - title: "Connect Google Drive"
         url: /docs/07-connect-google-drive-gmail/
-      - title: "Connect OneDrive, Live, Outlook"
+      - title: "Connect OneDrive | Live | Outlook"
         url: /docs/08-connect-onedrive-live-outlook/
       
   - title: Connectors - Enterprise
     children:
-      - title: "Connect Google Drive/Gsuite"
+      - title: "Connect Google Drive | Google suite"
         url: /docs/09-connect-google-drive-enterprise/
-      - title: "Connect OneDrive/Microsoft 365"
+      - title: "Connect OneDrive | Microsoft 365"
         url: /docs/10-connect-onedrive-m365-enterprise/
       - title: "Connect Box Enterprise"
         url: /docs/11-connect-box-enterprise/
@@ -54,9 +54,9 @@ sidenav:
 
   - title: Search
     children:
-      - title: "Searching for specific files"
+      - title: "Search specific files"
         url: /docs/stylesheets/
-      - title: "Create search tags"
+      - title: "Search tags"
         url: /docs/javascript/
 
   - title: Options
@@ -75,7 +75,7 @@ sidenav:
         url: /docs/stylesheets/
       - title: "Backup Box accounts"
         url: /docs/stylesheets/
-      - title: "Copy data from one storage account to another"
+      - title: "Mirror Folders"
         url: /docs/javascript/
-      - title: "Copy specific files and folders to secondary location"
+      - title: "Extract specific files"
         url: /docs/javascript/
