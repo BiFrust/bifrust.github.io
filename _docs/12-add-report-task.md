@@ -14,7 +14,7 @@ toc: true
 
 ## Add a Report Task
 
-Click the Task Icon on side navigation on the left: <img src="/assets/images/tasksIcon.png" alt="Unblock Installer" width="200" height="200"/>
+Click the Task Icon on side navigation on the left: <img src="/assets/images/tasksIcon.png" alt="Unblock Installer" width="30" height="30"/>
 
 
 <img src="/assets/images/tasksScreen.png" alt="Unblock Installer" width="650" height="800"/>
