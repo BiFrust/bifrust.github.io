@@ -12,4 +12,29 @@ toc: true
 #         nav: "sidenav"
 ---
 
-Coming soon
+## Add a Report Task
+
+Click the Task Icon on side navigation on the left: <img src="/assets/images/tasksIcon.png" alt="Unblock Installer" width="200" height="200"/>
+
+
+<img src="/assets/images/tasksScreen.png" alt="Unblock Installer" width="650" height="800"/>
+
+Once in the Tasks, click on **+** button to add a new Task. 
+
+
+<img src="/assets/images/tasksReport-00.png" alt="Unblock Installer" width="650" height="800"/>
+
+Select **Source Connector** to run the Report against.  
+Select **Report** as Task Type.
+Click **Next**
+
+
+<img src="/assets/images/tasksReport-0.1png" alt="Unblock Installer" width="650" height="800"/>
+
+Click **Next**
+
+You will see the configured Task has been added and running the **Report**
+
+Once finished, the connector will go from blue color while the Task is inprogress to red state indicating the Task has finished.
+
+To get the detail of the Task run, click on the Task or on the ellipses and select Details.
