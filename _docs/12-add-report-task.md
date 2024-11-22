@@ -29,7 +29,7 @@ Select **Report** as Task Type.
 Click **Next**
 
 
-<img src="/assets/images/tasksReport-0.1png" alt="Unblock Installer" width="650" height="800"/>
+<img src="/assets/images/tasksReport-01.1png" alt="Unblock Installer" width="650" height="800"/>
 
 Click **Next**
 
