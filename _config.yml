@@ -19,7 +19,7 @@ subtitle: Data App
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   BiFrust application allows you to connect to multiple cloud storage accounts and local storage devices to perform tasks such as copying files, backing up data, and more.
-twitter_username: username
+twitter_username: @BiFrustApp
 github_username: username
 minimal_mistakes_skin: default
 search: true
@@ -33,6 +33,12 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-T8675BCSSB"
+    anonymize_ip: false # default
 
 include:
   - _pages
