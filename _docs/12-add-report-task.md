@@ -24,8 +24,8 @@ Once in the Tasks, click on **+** button to add a new Task.
 
 <img src="/assets/images/tasksReport-00.png" alt="Unblock Installer" width="650" height="800"/>
 
-Select **Source Connector** to run the Report against.  
 Select **Report** as Task Type.
+Select **Source Connector** to run the Report against.  
 Click **Next**
 
 
