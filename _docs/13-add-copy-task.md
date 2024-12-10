@@ -37,11 +37,14 @@ Depending on the connector type you will be able to copy users, files or folder 
 
 <img src="/assets/images/tasksCopy-02.png" alt="Unblock Installer" width="650" height="800"/>
 
-This is the final configuration stage for the copy task. This is where you can set a schedule or choose data filtering options to omit or copy specific files. There is also data collision to avoid any overwriting issues.
+This is where you can set additional Task options:
+- Data Collision: Avoid overwriting files to avoid data collision
+- Data Filtering: Omit or target certain file types during copy process
+- Schedule: Set a reoccuring schedule to run this task
 
-Click **Next**
+Once desired options are selected, click **Next** to finalize the Task setup. 
 
-You will see the configured **Copy** Task has been added and inprogress.
+You will see the configured **Copy** Task has been added and running.
 
 Once finished, the connector will go from blue color while the Task is inprogress to red state indicating the Task has finished.
 
