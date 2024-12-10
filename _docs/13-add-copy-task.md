@@ -26,7 +26,6 @@ Once in the Tasks, click on **+** button to add a new Task.
 <img src="/assets/images/tasksCopy-00.png" alt="Unblock Installer" width="650" height="800"/>
 
 Select **Copy** as Task Type.
-
 Select **Source** to copy data from.  
 Select **Destination** to copy the data to.  
 Click **Next** to specify the mapping of your copy task.
@@ -40,12 +39,12 @@ Depending on the connector type you will be able to copy users, files or folder 
 This is where you can set additional Task options:
 - Data Collision: Avoid overwriting files to avoid data collision
 - Data Filtering: Omit or target certain file types during copy process
-- Schedule: Set a reoccuring schedule to run this task
+- Schedule: Set a reoccurring schedule to run this task
 
 Once desired options are selected, click **Next** to finalize the Task setup. 
 
 You will see the configured **Copy** Task has been added and running.
 
-Once finished, the connector will go from blue color while the Task is inprogress to red state indicating the Task has finished.
+Once finished, the connector will go from blue color while the Task is in progress to red state indicating the Task has finished.
 
 To get the detail of the Task run, click on the Task or on the ellipses and select Details.
