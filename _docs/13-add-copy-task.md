@@ -26,15 +26,15 @@ Once in the Tasks, click on **+** button to add a new Task.
 <img src="/assets/images/tasksCopy-00.png" alt="Unblock Installer" width="650" height="800"/>
 
 Select **Copy** as Task Type.
-Select **Source Connector** to copy data from.  
-Select **Destination Connector** to copy the data to.  
+Select **Source** to copy data from.  
+Select **Destination** to copy the data to.  
 Click **Next** to specify the mapping of your copy task.
 
-<img src="/assets/images/tasksCopy-01.png" alt="Unblock Installer" width="650" height="800"/>
+<img src="/assets/images/tasksCopy-01.png" alt="Unblock Installer" width="750" height="800"/>
 
-At this screen depending on the type of connector you have selected you will be able to copy entire users or subset of files to another storage location. This can be useful to mirror and backup your data to make it redundant. 
+Depending on the connector type you will be able to copy users, files or folder to another storage location. This can be useful to mirror and backup your data to make it redundant as an example. 
 
-<img src="/assets/images/tasksReport-01.png" alt="Unblock Installer" width="650" height="800"/>
+<img src="/assets/images/tasksCopy-02.png" alt="Unblock Installer" width="650" height="800"/>
 
 Click **Next**
 
