@@ -15,7 +15,8 @@ toc: true
 ## Task Options:
 
 ### Data Collision:
-<img src="/assets/images/taskOptionsCollision.png" alt="Unblock Installer" width="350" height="200"/>
+<img src="/assets/images/taskOptionsCollision.png" alt="Unblock Installer" width="300" height="150"/>
+
 While copying data around, you will run into scenario where you will attempt to copy files over to a location where files with same name exist. You can either choose to skip over these files, replace them or keep both (coming soon)
 
 ### Data Filtering: 
