@@ -15,14 +15,14 @@ toc: true
 
 
 ## How upgrading works:
-BiFrust is currently in its hyper release cycle while during beta. You may see a frequent number of updates pushed. These updates are in place and get invoked on app launch.
+BiFrust is currently in its hyper release cycle while in beta. You may see a frequent number of updates pushed. These updates are in place and get invoked on app launch.
 
 
 When an update becomes available the following notification will popup:
-<img src="/assets/images/appUpdateAvailable.png" alt="Unblock Installer" width="650" height="500"/>
+<img src="/assets/images/appUpdateAvailable.png" alt="Unblock Installer" width="350" height="400"/>
 
 Click on Download
 
-<img src="/assets/images/appUpdate.png" alt="Unblock Installer" width="650" height="500"/>
+<img src="/assets/images/appUpdate.png" alt="Unblock Installer" width="350" height="400"/>
 
 Once the download finishes, the installer will run. Once the installation finishes you can launch the updated app.
