@@ -19,7 +19,7 @@ On the first app launch, the app will start at the Add Connector screen automati
 <img src="/assets/images/addConnector.png" alt="Unblock Installer" width="650" height="800"/>
 
 
-Alternatively you can add connectors by accessing the Connector icon on the left side navigation.  <img src="/assets/images/connectorIcon.png" alt="Unblock Installer" width="30" height="30"/>
+Alternatively you can add connectors by accessing the Connector icon on the left side navigation.  <img src="/assets/images/connectorsIcon.png" alt="Unblock Installer" width="30" height="30"/>
 
 Click on **+** button to add a new connector
 <img src="/assets/images/connectorScreen2.png" alt="Unblock Installer" width="650" height="800"/>
