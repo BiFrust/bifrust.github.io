@@ -1,5 +1,5 @@
 ---
-title: "Search files across connected devices and accounts"
+title: "Search files across devices and accounts"
 date: 2024-11-01T15:34:30-04:00
 # layout: single
 # categories:
@@ -20,7 +20,8 @@ Click the search icon on side navigation on the left: <img src="/assets/images/s
 
 This screen shows all files and folders from all the connected storage in the app. The search allows you to locate files and folders across all platforms and devices using combination of various search filters. 
 
-Click on the **Keywords** for other search filters: <img src="/assets/images/searchFilters.png" alt="Unblock Installer" width="150" height="200"/>
+Click on the **Keywords** for other search filters: 
+<img src="/assets/images/searchFilters.png" alt="Unblock Installer" width="150" height="200"/>
 
 
 ### Examples:
