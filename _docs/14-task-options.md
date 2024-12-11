@@ -12,4 +12,10 @@ toc: true
 #         nav: "sidenav"
 ---
 
-Coming soon
+## Task Options:
+
+### Schedule:
+
+### Data Collision:
+
+### Data Filtering: 

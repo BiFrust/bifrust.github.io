@@ -32,7 +32,7 @@ Select **Destination** to copy the data to.
 Select either **Auto Mapping** or **CSV Mapping** 
 Click **Next** to specify the mapping of your copy task.
 
-**Auto Mapping:** BiFrust is intelligent enough to recognize your users across different domains and systems. It will take an attempt in automatically assembling the current source objects to be copied over to relevant destination objects.
+**Auto Map:** BiFrust is intelligent enough to recognize your users across different domains and systems. It will take an attempt in automatically assembling the current source objects to be copied over to relevant destination objects.
 {: .notice--info}
 
 
@@ -45,9 +45,9 @@ Depending on the connector type you will be able to copy users, files or folder 
 <img src="/assets/images/tasksCopy-02.png" alt="Unblock Installer" width="650" height="900"/>
 
 This is where you can set additional Task options:
-- Data Collision: Avoid overwriting files to avoid data collision
-- Data Filtering: Omit or target certain file types during copy process
-- Schedule: Set a reoccurring schedule to run this task
+- **Data Collision:** Avoid overwriting files to avoid data collision
+- **Data Filtering:** Omit or target certain file types during copy process
+- **Schedule:** Set a reoccurring schedule to run this task
 
 Once desired options are selected, click **Next** to finalize the Task setup. 
 
