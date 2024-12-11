@@ -50,7 +50,7 @@ sidenav:
       - title: "Copy Task"
         url: /docs/13-add-copy-task/
       - title: "Task Options"
-        url: /docs/14-setup-reoccuring-task/
+        url: /docs/14-task-options/
 
   - title: Search
     children:

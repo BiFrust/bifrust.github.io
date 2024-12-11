@@ -25,7 +25,7 @@ Once in the Tasks, click on **+** button to add a new Task.
 <img src="/assets/images/tasksReport-00.png" alt="Unblock Installer" width="650" height="800"/>
 
 Select **Report** as Task Type.
-Select **Source Connector** to run the Report against.  
+Select **Source**  
 Click **Next**
 
 
@@ -35,6 +35,6 @@ Click **Next**
 
 You will see the configured Task has been added and running the **Report**
 
-Once finished, the connector will go from blue color while the Task is inprogress to red state indicating the Task has finished.
+Once finished, the connector will go from blue color while the Task is in progress to red state indicating the Task has finished.
 
 To get the detail of the Task run, click on the Task or on the ellipses and select Details.
