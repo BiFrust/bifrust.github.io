@@ -22,7 +22,7 @@ This screen shows all files and folders from all the connected storage in the ap
 
 Click on the **Keywords** dropdown to access search filters:
 
-<img src="/assets/images/searchFilters.png" alt="Unblock Installer" width="250" height="300"/>
+<img src="/assets/images/searchFilters.png" alt="Unblock Installer" width="150" height="200"/>
 
 
 ### Examples:
