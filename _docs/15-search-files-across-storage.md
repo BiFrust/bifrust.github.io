@@ -22,7 +22,7 @@ This screen shows all files and folders from all the connected storage in the ap
 
 Click on the **Keywords** dropdown to access search filters:
 
-<img src="/assets/images/searchFilters.png" alt="Unblock Installer" width="750" height="1000"/>
+<img src="/assets/images/searchFilters.png" alt="Unblock Installer" width="250" height="300"/>
 
 
 ### Examples:
@@ -35,12 +35,12 @@ Click on the **Keywords** dropdown to access search filters:
 
 <img src="/assets/images/searchMultiKeywords.png" alt="Unblock Installer" width="750" height="1000"/>
 
-#### Multi Keyword Platform
+#### Platform Search
 
 <img src="/assets/images/searchPlatform.png" alt="Unblock Installer" width="750" height="1000"/>
 
-#### Multi Keyword Creator
+#### Creator/Owner Search
 
-#### Multi Keyword Size
+#### Search by Size
 
-#### Multi Keyword Created/Modified 
+#### Search by Created/Modified date

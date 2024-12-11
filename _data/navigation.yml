@@ -54,7 +54,7 @@ sidenav:
 
   - title: Search
     children:
-      - title: "Search specific files"
+      - title: "Search files or folders"
         url: /docs/15-search-files-across-storage/
       - title: "Search tags"
         url: /docs/16-search-tags/
