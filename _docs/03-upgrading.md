@@ -19,10 +19,10 @@ BiFrust is currently in its hyper release cycle while in beta. You may see a fre
 
 
 When an update becomes available the following notification will popup:
-<img src="/assets/images/appUpdateAvailable.png" alt="Unblock Installer" width="350" height="400"/>
+<img src="/assets/images/appUpdateAvailable.png" alt="Unblock Installer" width="250" height="300"/>
 
 Click on Download
 
-<img src="/assets/images/appUpdate.png" alt="Unblock Installer" width="350" height="400"/>
+<img src="/assets/images/appUpdate.png" alt="Unblock Installer" width="250" height="300"/>
 
 Once the download finishes, the installer will run. Once the installation finishes you can launch the updated app.
