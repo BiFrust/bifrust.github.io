@@ -10,7 +10,7 @@ toc: true
 #         nav: "sidenav"
 ---
 
-## Add a Copy Task
+## Add Copy Task
 
 BiFrust allows you to copy files and folders from one storage location to another. The app handle the transformation of data to be copied to your destination location. All you have to do is specify which files,folders or users you want to copy from one location to another.
 
@@ -22,7 +22,7 @@ Click the Task Icon on side navigation on the left: <img src="/assets/images/tas
 
 Once in the Tasks, click on **+** button to add a new Task. 
 
-### Setting up Copy Task
+### Setup Copy Task
 
 <img src="/assets/images/tasksCopy-00.png" alt="Unblock Installer" width="650" height="800"/>
 
@@ -36,7 +36,7 @@ Click **Next** to specify the mapping of your copy task.
 {: .notice--info}
 
 
-### Source and Destination Mapping
+### Mapping: Source and Destination 
 
 <img src="/assets/images/tasksCopy-01.png" alt="Unblock Installer" width="750" height="1000"/>
 
@@ -44,7 +44,7 @@ Depending on the connector type you will be able to copy users, files or folder 
 
 <img src="/assets/images/tasksCopy-02.png" alt="Unblock Installer" width="650" height="1000"/>
 
-### Task Options
+### Options
 
 This is where you can set additional Task options:
 - **Data Collision:** Avoid overwriting files to avoid data collision
