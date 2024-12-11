@@ -22,19 +22,27 @@ Click the Task Icon on side navigation on the left: <img src="/assets/images/tas
 
 Once in the Tasks, click on **+** button to add a new Task. 
 
+### Setting up Copy Task source and destination
 
 <img src="/assets/images/tasksCopy-00.png" alt="Unblock Installer" width="650" height="800"/>
 
 Select **Copy** as Task Type.
 Select **Source** to copy data from.  
 Select **Destination** to copy the data to.  
+Select either **Auto Mapping** or **CSV Mapping** 
 Click **Next** to specify the mapping of your copy task.
 
-<img src="/assets/images/tasksCopy-01.png" alt="Unblock Installer" width="750" height="800"/>
+**Auto Mapping:** BiFrust is intelligent enough to recognize your users across different domains and systems. It will take an attempt in automatically assembling the current source objects to be copied over to relevant destination objects.
+{: .notice--info}
 
-Depending on the connector type you will be able to copy users, files or folder to another storage location. This can be useful to mirror and backup your data to make it redundant as an example. 
 
-<img src="/assets/images/tasksCopy-02.png" alt="Unblock Installer" width="650" height="800"/>
+### Configure Mapping for granular control
+
+<img src="/assets/images/tasksCopy-01.png" alt="Unblock Installer" width="750" height="900"/>
+
+Depending on the connector type you will be able to copy users, files or folder to another storage location. This can be useful to mirror and backup your data to make it redundant as an example use case. 
+
+<img src="/assets/images/tasksCopy-02.png" alt="Unblock Installer" width="650" height="900"/>
 
 This is where you can set additional Task options:
 - Data Collision: Avoid overwriting files to avoid data collision

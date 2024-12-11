@@ -55,16 +55,16 @@ sidenav:
   - title: Search
     children:
       - title: "Search specific files"
-        url: /docs/stylesheets/
+        url: /docs/15-search-files-across-storage/
       - title: "Search tags"
-        url: /docs/javascript/
+        url: /docs/16-search-tags/
 
   - title: Options
     children:
       - title: "Account"
-        url: /docs/stylesheets/
+        url: /docs/17-account-options/
       - title: "Encryption and Keys"
-        url: /docs/stylesheets/
+        url: /docs/18-encryption-keys/
      
 
   - title: Scenarios
