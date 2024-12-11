@@ -12,7 +12,7 @@ toc: true
 #         nav: "sidenav"
 ---
 
-## Add OneDrive, Live, Outlook accounts as a connector
+## Add OneDrive, Live or Outlook account
 
 Click on **+** button to add a new connector. 
 
