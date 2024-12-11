@@ -38,11 +38,11 @@ Click **Next** to specify the mapping of your copy task.
 
 ### Source and Destination Mapping
 
-<img src="/assets/images/tasksCopy-01.png" alt="Unblock Installer" width="750" height="900"/>
+<img src="/assets/images/tasksCopy-01.png" alt="Unblock Installer" width="750" height="1000"/>
 
 Depending on the connector type you will be able to copy users, files or folder to another storage location. This can be useful to mirror and backup your data to make it redundant as an example use case. 
 
-<img src="/assets/images/tasksCopy-02.png" alt="Unblock Installer" width="650" height="900"/>
+<img src="/assets/images/tasksCopy-02.png" alt="Unblock Installer" width="650" height="1000"/>
 
 ### Task Options
 
