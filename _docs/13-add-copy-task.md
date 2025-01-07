@@ -18,7 +18,7 @@ BiFrust allows you to copy files and folders from one storage location to anothe
 Click the Task Icon on side navigation on the left: <img src="/assets/images/tasksIcon.png" alt="Unblock Installer" width="30" height="30"/>
 
 
-<img src="/assets/images/tasksScreen.png" alt="Unblock Installer" width="650" height="800"/>
+<img src="/assets/images/tasksScreen2.png" alt="Unblock Installer" width="650" height="800"/>
 
 Once in the Tasks, click on **+** button to add a new Task. 
 
